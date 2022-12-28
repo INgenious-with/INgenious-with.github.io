@@ -33,8 +33,6 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: center
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
         title: Us Way Trip
         link: github.com/somizoo/project
         link_text: github.com/somizoo/project
