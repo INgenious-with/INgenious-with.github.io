@@ -35,6 +35,7 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Us Way Trip
+        layout: center
         link: github.com/somizoo/project
         link_text: github.com/somizoo/project
         additional_links:
