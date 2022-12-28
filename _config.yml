@@ -30,6 +30,7 @@ about_profile_image: images/injin.jpg
 about_content: | # this will include new lines to allow paragraphs
   **On my way, My way trip**
 
+
   한명의 새로운 개발자로써의 여행을 떠나고 싶은 <mark>김인진</mark> 이라고 합니다!
   
   20살 이후로 제가 해야 하는 일에 누구보다 최선을 다하였으며, 결과로 증명하였습니다.
@@ -54,6 +55,8 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+         link: www.naver.com
+         # link_text: naver
         quote: >
           국비 과정에서 진행했던 프로젝트 입니다.
           
