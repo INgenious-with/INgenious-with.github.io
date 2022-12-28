@@ -24,9 +24,9 @@ github_username: somizoo
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  On my way, my way trip.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+  한명의 새로운 개발자로써 저의 여행을 떠나고 싶은 김인진 이라고 합니다.
 
 content:
   - title: Projects # Title for the section
@@ -42,10 +42,9 @@ content:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          저의 첫번째 프로젝트 입니다
-        description: | # this will include new lines to allow paragraphs
-          저의 첫번째 프로젝트 입니다
+        about_content: | # this will include new lines to allow paragraphs
+  저의 첫번째 프로젝트 입니다
+  
   - title: Experience
     layout: list
     content:
