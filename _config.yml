@@ -42,7 +42,6 @@ content:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url:  github.com/somizoo/somizoo
-      국비과정에서 만든 Us Way Trip 프로젝트 입니다
       
   - title: Experience
     layout: list
