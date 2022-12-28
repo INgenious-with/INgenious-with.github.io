@@ -42,8 +42,6 @@ content:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        about_content: | # this will include new lines to allow paragraphs
-  저의 첫번째 프로젝트 입니다
   
   - title: Experience
     layout: list
