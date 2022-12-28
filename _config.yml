@@ -38,9 +38,9 @@ content:
         link: github.com/somizoo/project
         link_text:                               github.com/somizoo/project
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title:                               Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
-            url:  github.com/somizoo/somizoo
+            url: github.com/somizoo/somizoo
 
       
   - title: Experience
