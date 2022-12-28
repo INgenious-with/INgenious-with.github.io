@@ -23,31 +23,22 @@ additional_links:
 - title: itsgoingto.be
   icon: fas fa-globe
   url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
 
 # About Section
 # about_title: About Me
 about_profile_image: images/injin.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Hyewon Jeon and I'm a junior back-end web developer. As well as developing web, I am also good at communicating with people. I have worked at a number of companies gaining teamwork and leadership skills.
+  **On my way, My way trip**
 
-  I am most skilled in: <mark>Java</mark> and <mark>Smile</mark>
+  한명의 새로운 개발자로써의 여행을 떠나고 싶은 <mark>김인진</mark> 이라고 합니다!
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Hana EZ-UP
-        link: github.com/codingwanee/HanaEZ-UP
+        title: Us Way Trip
+        link: github.com/somizoo/project
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
@@ -57,7 +48,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          My first toy project.
+          국비 과정에서 진행했던 프로젝트 입니다.
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>Spring Framework</mark> and it has since grown into a fully acting web page. I have learned many skills through this and been I'm very proud of having this in my portfolio.
 
