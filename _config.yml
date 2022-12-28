@@ -36,12 +36,14 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Us Way Trip
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link: github.com/somizoo/project
         link_text: github.com/somizoo/project
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          저의 첫번째 프로젝트 입니다
         description: | # this will include new lines to allow paragraphs
           저의 첫번째 프로젝트 입니다
   - title: Experience
