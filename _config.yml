@@ -34,13 +34,14 @@ content:
     content:
       - layout: center
         title: Us Way Trip
+        caption: 국비 과정에서 만든 프로젝트 입니다.
         link: github.com/somizoo/project
         link_text: github.com/somizoo/project
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url:  github.com/somizoo/somizoo
-        text: 이런건 안돼?
+
       
   - title: Experience
     layout: list
