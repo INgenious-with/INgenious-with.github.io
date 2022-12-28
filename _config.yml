@@ -23,8 +23,7 @@ github_username: somizoo
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_content: | # this will include new lines to allow paragraphs
-  On my way, my way trip.
+  title: On my way, my way trip.
 
   한명의 새로운 개발자로써 저의 여행을 떠나고 싶은 김인진 이라고 합니다.
 
@@ -41,8 +40,7 @@ content:
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  
+            url:  github.com/somizoo/somizoo
   - title: Experience
     layout: list
     content:
