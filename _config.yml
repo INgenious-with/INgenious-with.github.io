@@ -33,10 +33,10 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: center
-        title: Us Way Trip
-        caption: 국비 과정에서 만든 프로젝트 입니다.
+        title:                               Us Way Trip
+        caption:                               국비 과정에서 만든 프로젝트 입니다.
         link: github.com/somizoo/project
-        link_text: github.com/somizoo/project
+        link_text:                               github.com/somizoo/project
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
