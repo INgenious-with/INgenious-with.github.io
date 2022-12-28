@@ -47,18 +47,8 @@ content:
         title: Us Way Trip
         link: github.com/somizoo/project
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          국비 과정에서 진행했던 프로젝트 입니다.
-     content:
-      - layout: top-middle
-        title: Us Way Trip
+        link: github.com/somizoo/project
+        # link_text: Project Website
         link: github.com/somizoo/project
         # link_text: Project Website
         additional_links:
