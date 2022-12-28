@@ -57,6 +57,7 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         additional_links:
           - title: www.naver.com
+            icon: fab fa-github
             url: www.naver.com
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
