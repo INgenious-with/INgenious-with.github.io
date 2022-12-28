@@ -55,13 +55,7 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        additional_links:
-          - title: www.naver.com
-            icon: fab fa-github
-            url: www.naver.com
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        [네이버 주소](<https://www.naver.com, "네이버 블로그")
          
         quote: >
           국비 과정에서 진행했던 프로젝트 입니다.
