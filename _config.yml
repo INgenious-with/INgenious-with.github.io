@@ -24,7 +24,7 @@ github_username: somizoo
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_content: | # this will include new lines to allow paragraphs
-  **On my way, my way trip**.
+  # **<u>On my way, my way trip<u>**.
   
   한명의 새로운 개발자로써 저의 여행을 떠나고 싶은 김인진 이라고 합니다.
 
