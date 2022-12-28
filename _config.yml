@@ -31,6 +31,13 @@ about_content: | # this will include new lines to allow paragraphs
   **On my way, My way trip**
 
   한명의 새로운 개발자로써의 여행을 떠나고 싶은 <mark>김인진</mark> 이라고 합니다!
+  
+  20살 이후로 제가 해야 하는 일에 누구보다 최선을 다하였으며, 결과로 증명하였습니다.
+  
+  앞으로의 개발자로써의 길 또한 누구보다 열심히 달릴 자신이 있습니다.
+  
+  저의 부족함을 채울 수 있는 열정과 성실성, 그리고 저의 가능성을 봐주셨으면 좋겠습니다.
+  
 
 content:
   - title: Projects # Title for the section
