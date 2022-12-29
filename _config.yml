@@ -51,7 +51,8 @@ content:
        
         quote: >
           국비 과정을 통하여 개발자의 길로 입문하였습니다.
-        <br/> 
+           
+            
         description: | # this will include new lines to allow paragraphs
                    국비 과정 특성상 현업에 필요한 지식과 역량을 쌓기에 한계가 있었습니다.
           
@@ -76,7 +77,8 @@ content:
          
         quote: >
           국비 과정에서 진행했던 프로젝트 입니다. 아래에는 프로젝트 시연을 위해 직접 만들었던 Prezi 입니다.
-          <br/> 
+           
+            
         description: | # this will include new lines to allow paragraphs
           프로젝트에서 가장 중요한 것은 <mark>팀워크</mark>라고 생각합니다. 저의 부족함을 채울 수 있는 팀원이 있고, 저의 역량으로 수행할 수 있는 역할이 있다고 생각합니다.
           
