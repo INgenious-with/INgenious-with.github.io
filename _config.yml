@@ -30,7 +30,6 @@ about_profile_image: images/injin.jpg
 about_content: | # this will include new lines to allow paragraphs
   **On my way, My way trip**
 
-
   한명의 새로운 개발자로써의 여행을 떠나고 싶은 <mark>김인진</mark> 이라고 합니다!
   
   20살 이후로 제가 해야 하는 일에 누구보다 최선을 다하였으며, 결과로 증명하였습니다.
@@ -38,8 +37,6 @@ about_content: | # this will include new lines to allow paragraphs
   앞으로의 개발자로써의 길 또한 누구보다 열심히 달릴 자신이 있습니다.
   
   저의 부족함을 채울 수 있는 열정과 성실성, 그리고 저의 가능성을 봐주셨으면 좋겠습니다.
-  
-
 content:
   - title: 국비과정 교육 수료 # Title for the section
     layout: list # Type of content section (list/text)
@@ -48,11 +45,8 @@ content:
         title: (디지털컨버전스) 디지털데이터 융합 자바기반 풀스택 개발자 양성 과정A
         link: http://naver.me/GbcyatAi
         # link_text: 수료증
-       
         quote: >
           국비 과정을 통하여 개발자의 길로 입문하였습니다.
-           
-            
         description: | # this will include new lines to allow paragraphs
                    국비 과정 특성상 현업에 필요한 지식과 역량을 쌓기에 한계가 있었습니다.
           
@@ -77,8 +71,6 @@ content:
          
         quote: >
           국비 과정에서 진행했던 프로젝트 입니다. 아래에는 프로젝트 시연을 위해 직접 만들었던 Prezi 입니다.
-           
-            
         description: | # this will include new lines to allow paragraphs
           프로젝트에서 가장 중요한 것은 <mark>팀워크</mark>라고 생각합니다. 저의 부족함을 채울 수 있는 팀원이 있고, 저의 역량으로 수행할 수 있는 역할이 있다고 생각합니다.
           
@@ -97,8 +89,6 @@ content:
           Core Banking Developer
         description: | # this will include new lines to allow paragraphs
             After 6 months of Trainning(Apr - Oct 2020), worked as full-time Core Banking Developer covering Common, Customer, AML, Factoriy modules.
-
-
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
