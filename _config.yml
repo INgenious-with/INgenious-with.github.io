@@ -96,7 +96,7 @@ content:
         quote: >
           다양한 자격증을 취득해왔고, 정보처리기사, SQL-D 등 현업과 연관된 자격증 취득을 목표로 하고 있습니다.
         description: | # this will include new lines to allow paragraphs
-        
+                   국비과정 특성상 현업에 필요한 지식과 역량을 쌓기에 한계가 있었습니다.        
   - title: 입사지원서 # Title for the section
     layout: list # Type of content section (list/text)
     content:
