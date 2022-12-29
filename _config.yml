@@ -86,7 +86,22 @@ content:
                    국비 과정에서 JAVA, JSP, SPRING, HTML, CSS 등을 공부하였고, 팀원들과 함께 프로젝트를 진행한 바 있습니다.
           
                    프로젝트에서 맡았던 역할이나 시연 등은 입사 지원서를 참고해주시기 바랍니다.
-          
+ 
+ - title: 입사지원서 # Title for the section
+  layout: list # Type of content section (list/text)
+  content:
+      - layout: top-middle
+        title: On my way, My way Trip
+        link: http://naver.me/5qALqO2y
+        # link_text: 입사지원서
+        quote: >
+          신입 개발자로써 가장 필요한 덕목은 열정과 의지라고 생각합니다. 항상 맡은 바 최선을 다하였으며, 저의 삶으로 입증하였습니다.
+        description: | # this will include new lines to allow paragraphs
+         - Collecting Keyboards (Especially Capactive keyboards)
+         - Gaming
+         - Pilates
+         - Beer
+ 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -122,7 +137,7 @@ content:
       - Gaming
       - Pilates
       - Beer
-    link: hanati.co.kr
+
 # Footer
 footer_show_references: true
 # references_title: Nice to meet you (Override references text)
