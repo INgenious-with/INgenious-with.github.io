@@ -73,6 +73,20 @@ content:
           프로젝트에서 가장 중요한 것은 <mark>팀워크</mark>라고 생각합니다. 저의 부족함을 채울 수 있는 팀원이 있고, 저의 역량으로 수행할 수 있는 역할이 있다고 생각합니다.
           
           개발은 협업입니다. 혼자 할 수 없다고 생각합니다. 개발자에게 있어 코딩 실력보다 중요한 것은 좋은 <mark>팀워크</mark>를 만들어 나가기 위한 노력이 아닐까 싶습니다.
+  - title: 입사지원서 # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: On my way, My way Trip
+        link: http://naver.me/5qALqO2y
+        # link_text: 입사지원서
+        quote: >
+          신입 개발자로써 가장 필요한 덕목은 열정과 의지라고 생각합니다. 항상 맡은 바 최선을 다하였으며, 저의 삶으로 입증하였습니다.
+        description: | # this will include new lines to allow paragraphs
+          국비 과정에서 JAVA, JSP, SPRING, HTML, CSS 등을 공부하였고, 팀원들과 함께 프로젝트를 진행한 바 있습니다.
+          
+          프로젝트에서 맡았던 역할이나 시연 등은 입사 지원서를 참고해주시기 바랍니다.
+          
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
