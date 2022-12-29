@@ -87,7 +87,7 @@ content:
         link: http://naver.me/G5Qkjew5
         # link_text: 자격증
         quote: >
-          다양한 자격증을 취득해왔고, 정보처리기사, SQL-D 등 현업과 관련된 자격증 취득을 목표로 하고 있습니다.
+          다양한 자격증을 취득해왔고, 정보처리기사, SQL-D 등 <mark>현업과 관련된</mark> 자격증 취득을 목표로 하고 있습니다.
         description: | # this will include new lines to allow paragraphs
                      워드프로세서 단일등급  (대한상공회의소, 2013.10)
 
@@ -108,7 +108,7 @@ content:
         link: http://naver.me/G1FpcuO3
         # link_text: 수상내역
         quote: >
-          창의적인 생각과 다양한 활동을 지속하였고, 아래와 같은 결과물을 도출하였습니다.
+          <mark>창의적인</mark> 생각과 다양한 활동을 지속하였고, 아래와 같은 <mark>결과물</mark>을 도출하였습니다.
         description: | # this will include new lines to allow paragraphs
                      2021년 2분기 지정주제 아이디어 공모전(장려)  (서울시립대학교, 2021.12)
 
