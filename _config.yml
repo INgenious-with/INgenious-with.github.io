@@ -87,7 +87,7 @@ content:
         link: http://naver.me/G5Qkjew5
         # link_text: 자격증
         quote: >
-          다양한 자격증을 취득해왔고, 정보처리기사, SQL-D 등 현업과 관련된 자격증 취득을 목표로 하고 있습니다.
+          다양한 자격증을 취득해왔고, 정보처리기사, SQL-D 등 현업과 관련된 자격증 취득을 <mark>목표</mark>로 하고 있습니다.
         description: | # this will include new lines to allow paragraphs
                      워드프로세서 단일등급  (대한상공회의소, 2013.10)
 
