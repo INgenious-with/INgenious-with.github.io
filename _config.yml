@@ -60,7 +60,7 @@ content:
           
                    국비 과정은 신입 개발자로써 필요한 <mark>기초 지식</mark> 등을 함양할 수 있는 값진 시간이었습니다.           
 
-  - title: Projects # Title for the section
+  - title:  # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
