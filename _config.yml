@@ -94,7 +94,7 @@ content:
         link: http://naver.me/G5Qkjew5
         # link_text: 자격증
         quote: >
-          다양한 자격증을 취득해왔고, 정보처리기사, SQL-D 등 현업과 연관된 자격증 취득을 목표로 하고 있습니다.
+          다양한 자격증을 취득해왔고, 정보처리기사, SQL-D 등 현업과 된 자격증 취득을 목표로 하고 있습니다.
         description: | # this will include new lines to allow paragraphs
                      워드프로세서 단일등급  (대한상공회의소, 2013.10)
 
@@ -107,27 +107,27 @@ content:
                      사회조사분석사2급  (한국산업인력공단, 2015.08)
                      
                      사회복지사1급  (한국산업인력공단, 2017.03)                     
-  - title: 자격증 # Title for the section
+  - title: 수상내역 # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
         title:
-        link: http://naver.me/G5Qkjew5
-        # link_text: 자격증
+        link: http://naver.me/G1FpcuO3
+        # link_text: 수상내역
         quote: >
-          다양한 자격증을 취득해왔고, 정보처리기사, SQL-D 등 현업과 연관된 자격증 취득을 목표로 하고 있습니다.
+          다양한 활동을 했었고, 아래와 같은 수상내역을 가지고 있습니다.          
         description: | # this will include new lines to allow paragraphs
-                     워드프로세서 단일등급  (대한상공회의소, 2013.10)
+                     2021년 2분기 지정주제 아이디어 공모전(장려)  (서울시립대학교, 2021.12)
 
-                     정보기술자격(ITQ) 아래한글 A등급  (한국생산성본부, 2013.06)
+                     최우수 졸업자(전체수석)  (학교법인 금강학원, 2017.02)
                      
-                     정보기술자격(ITQ) 한글엑셀 A등급  (한국생산성본부, 2011.12)
+                     이그나이트 경진대회(장려)  (유원대학교(구 영동대학교), 2016.12)
                      
-                     정보기술자격(ITQ) 한글파워포인트 B등급  (한국생산성본부, 2014.02)
+                     교내 토익 경시대회 개인별 8위  (유원대학교(구 영동대학교), 201.11)
                      
-                     사회조사분석사2급  (한국산업인력공단, 2015.08)
+                     우수 동아리 선정 표창장(장려)  (영동대학교, 2016.06)
                      
-                     사회복지사1급  (한국산업인력공단, 2017.03)                       
+                     우수 동아리 선정 표창장(장려)  (영동대학교, 2015.12)                       
   - title: 입사지원서 # Title for the section
     layout: list # Type of content section (list/text)
     content:
