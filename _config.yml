@@ -64,6 +64,31 @@ content:
           
           개발은 협업입니다. 혼자 할 수 없다고 생각합니다. 개발자에게 있어 코딩 실력보다 중요한 것은 좋은 <mark>팀워크</mark>를 만들어 나가기 위한 노력이 아닐까 싶습니다.
           
+  content:
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Us Way Trip
+        link: github.com/somizoo/uswaytrip
+        # link_text: Project Website
+        additional_links:
+          - title: 프로젝트 시연때 사용한 Prezi
+            icon: fab fa-github
+            url: https://prezi.com/view/ZAfCTLpkjsxnW6vRLlYt/
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+         
+        quote: >
+          국비 과정에서 진행했던 프로젝트 입니다. 아래에는 프로젝트 시연을 위해 직접 만들었던 Prezi 입니다.
+          
+        description: | # this will include new lines to allow paragraphs
+          프로젝트에서 가장 중요한 것은 <mark>팀워크</mark>라고 생각합니다. 저의 부족함을 채울 수 있는 팀원이 있고, 저의 역량으로 수행할 수 있는 역할이 있다고 생각합니다.
+          
+          개발은 협업입니다. 혼자 할 수 없다고 생각합니다. 개발자에게 있어 코딩 실력보다 중요한 것은 좋은 <mark>팀워크</mark>를 만들어 나가기 위한 노력이 아닐까 싶습니다.
+          
+  
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
