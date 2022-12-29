@@ -128,55 +128,6 @@ content:
                      우수 동아리 선정 표창장(장려)  (영동대학교, 2016.06)
                      
                      우수 동아리 선정 표창장(장려)  (영동대학교, 2015.12)                       
-  - title: 입사지원서 # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: On my way, My way Trip
-        link: http://naver.me/5qALqO2y
-        # link_text: 입사지원서
-        quote: >
-          신입 개발자로써 가장 필요한 덕목은 열정과 의지라고 생각합니다. 항상 맡은 바 최선을 다하였으며, 저의 삶으로 입증하였습니다.
-        description: | # this will include new lines to allow paragraphs
-                   국비 과정에서 JAVA, JSP, SPRING, HTML, CSS 등을 공부하였고, 팀원들과 함께 프로젝트를 진행한 바 있습니다.
-          
-                   프로젝트에서 맡았던 역할 등은 <mark>입사지원서</mark>를 참고해주시기 바랍니다.
-
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: HanaTI
-        link: hanati.co.kr
-        # link_text: boringcompany.com
-        sub_title: Junior Core Banking Developer
-        caption: November 2020 - Present
-        quote: >
-          Core Banking Developer
-        description: | # this will include new lines to allow paragraphs
-            After 6 months of Trainning(Apr - Oct 2020), worked as full-time Core Banking Developer covering Common, Customer, AML, Factoriy modules.
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Hankuk University of Foreign Studies
-        caption: 2010 - 2016
-        sub_title: BSc Thai Language
-        quote: >
-          Hankuk University of Foreing Studies, aka HUFS, is best Foreign-study education institution in South Korea.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          In HUFS, I had various chances to get along with students from abroad, so it helped me to be a multicultural individual who can get easy with exotic cultures.
-
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Collecting Keyboards (Especially Capactive keyboards)
-      - Gaming
-      - Pilates
-      - Beer
 
 # Footer
 footer_show_references: true
