@@ -116,13 +116,13 @@ content:
 
   - title: A Little More About Me
     layout: text
-    link: hanati.co.kr
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
       - Collecting Keyboards (Especially Capactive keyboards)
       - Gaming
       - Pilates
       - Beer
+    link: hanati.co.kr
 # Footer
 footer_show_references: true
 # references_title: Nice to meet you (Override references text)
