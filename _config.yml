@@ -9,13 +9,13 @@ version: 2
 name: Injin Kim
 title: A new Back-end Web Developer
 email: injin333@uos.ac.kr
-website: www.github.com/somizoo
+website: www.github.com/INgenious-with
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-github_username: somizoo
+github_username: INgenious-with
 
 # About Section
 # about_title: About Me
@@ -51,7 +51,7 @@ content:
     content:
       - layout: top-middle
         title: Us Way Trip
-        link: github.com/somizoo/uswaytrip
+        link: github.com/INgenious-with/uswaytrip
         # link_text: Project Website
         additional_links:
           - title: 프로젝트 시연때 사용한 Prezi
